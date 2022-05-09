@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>global.ScriptInclude2</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>ScriptInclude2</name>
+        <script><![CDATA[var ScriptInclude2 = Class.create();
+ScriptInclude2.prototype = {
+    initialize: function() {
+    },
+//ScriptInclude2
+    type: 'ScriptInclude2'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-09 13:28:24</sys_created_on>
+        <sys_id>de68caa62fd7c1101435dcb6f699b6b8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ScriptInclude2</sys_name>
+        <sys_package display_value="GitDemo3" source="f8fa0d622f17c1101435dcb6f699b6d2">f8fa0d622f17c1101435dcb6f699b6d2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GitDemo3">f8fa0d622f17c1101435dcb6f699b6d2</sys_scope>
+        <sys_update_name>sys_script_include_de68caa62fd7c1101435dcb6f699b6b8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-09 13:28:24</sys_updated_on>
+    </sys_script_include>
+</record_update>
